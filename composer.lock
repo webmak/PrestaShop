@@ -7507,16 +7507,16 @@
         },
         {
             "name": "prestashop/statsbestmanufacturers",
-            "version": "v2.0.1",
+            "version": "v2.0.2",
             "source": {
                 "type": "git",
                 "url": "https://github.com/PrestaShop/statsbestmanufacturers.git",
-                "reference": "67239c0b72e189484c6c5ef084987510bd13034a"
+                "reference": "822d3289db1cbd0361164a2848222b55a2624651"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/PrestaShop/statsbestmanufacturers/zipball/67239c0b72e189484c6c5ef084987510bd13034a",
-                "reference": "67239c0b72e189484c6c5ef084987510bd13034a",
+                "url": "https://api.github.com/repos/PrestaShop/statsbestmanufacturers/zipball/822d3289db1cbd0361164a2848222b55a2624651",
+                "reference": "822d3289db1cbd0361164a2848222b55a2624651",
                 "shasum": ""
             },
             "require": {
@@ -7539,9 +7539,9 @@
             "description": "PrestaShop module statsbestmanufacturers",
             "homepage": "https://github.com/PrestaShop/statsbestmanufacturers",
             "support": {
-                "source": "https://github.com/PrestaShop/statsbestmanufacturers/tree/v2.0.1"
+                "source": "https://github.com/PrestaShop/statsbestmanufacturers/tree/v2.0.2"
             },
-            "time": "2023-01-30T12:55:42+00:00"
+            "time": "2023-03-07T14:24:21+00:00"
         },
         {
             "name": "prestashop/statsbestproducts",
